@@ -61,7 +61,7 @@ chat_html = f"""
                         // 创建聊天实例
                         const client = new CozeWebSDK.WebChatClient({{
                             config: {{
-                                bot_id: '{BOT_ID}',
+                                bot_id: '{7617094528700530742}',
                                 host: 'https://api.coze.cn',
                             }},
                             componentProps: {{
