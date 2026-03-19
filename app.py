@@ -4,8 +4,8 @@ import pandas as pd
 import plotly.express as px
 import json
     
-    # 使用Coze Web SDK，调大字体
-    chat_html = f"""
+# 使用Coze Web SDK，调大字体
+chat_html = f"""
     <!DOCTYPE html>
     <html>
     <head>
