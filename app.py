@@ -182,5 +182,5 @@ chat_html = f"""
     </html>
     """
     
-    # 显示聊天界面
-    components.html(chat_html, height=750)
+ # 显示聊天界面
+components.html(chat_html, height=750)
